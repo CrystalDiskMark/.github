@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/CrystalDiskMark/download?label=Version&style=flat-square&color=00CEC9" alt="Version" />
   <img src="https://img.shields.io/github/release-date/CrystalDiskMark/download?label=Released&style=flat-square&color=orange" alt="Release Date" />
   <img src="https://img.shields.io/badge/Windows-7%20→%2011-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/License-MIT-2ea043?style=flat-square" alt="MIT License" />
